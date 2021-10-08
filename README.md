@@ -23,7 +23,7 @@ Reference: Li, T. & Oliva, R. (2021), Structural Control Analysis of System Dyna
 
 --> Collect output files from /output
 
-# Output type
+# Output file
 
 Matrix_A.csv --> 0-1 adjacency matrix of the system
 
