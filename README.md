@@ -1,5 +1,5 @@
 # SCA4SD
-Structural Control Analysis of System Dynamics Models
+[Structural Control Analysis of System Dynamics Models]
 
 Python scripts for conducting Structural Control Analysis (SCA) on System Dynamics Models
 
